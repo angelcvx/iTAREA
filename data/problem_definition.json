@@ -1,0 +1,10 @@
+{
+    "timeConstraints": [
+        {
+            "completitionTime": 10000000,
+            "tasksInvolved": [1,2,3]
+        }
+    ],
+    "cpuPercentages": 5,
+    "nUsers": 1
+}
