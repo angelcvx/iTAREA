@@ -32,10 +32,19 @@ Run iTAREA:
 python main.py
 ```
 
+## How it works 
+
+The following equation [1] describes the operation of the iTAREA module:
+
+![image](https://github.com/user-attachments/assets/5f7498c8-6ab6-4897-9e3b-5918d6c3a8ea)
+
+![image](https://github.com/user-attachments/assets/5c299078-c804-4ac0-8937-65a15e5d351e)
+
+
 ## Citing iTAREA
 
 If you use iTAREA in your research, please consider citing the following papers:
 
-- Angel Cañete, Mercedes Amor, Lidia Fuentes, "HADES: An NFV solution for energy-efficient placement and resource allocation in heterogeneous infrastructures," Journal of Network and Computer Applications, vol. 221, 2024. DOI: https://doi.org/10.1016/j.jnca.2023.103764.
-- Angel Cañete, Mercedes Amor, Lidia Fuentes, "Supporting IoT applications deployment on edge-based infrastructures using multi-layer feature models," Journal of Systems and Software, vol. 183, 2022. DOI: https://doi.org/10.1016/j.jss.2021.111086.
-- A. Cañete, M. Amor, and L. Fuentes, "Energy-Efficient Deployment of IoT Applications in Edge-Based Infrastructures: A Software Product Line Approach," IEEE Internet of Things Journal, vol. 8, no. 22, pp. 16427-16439, Nov. 2021. DOI: 10.1109/JIOT.2020.3030197
+- [1] Angel Cañete, Mercedes Amor, Lidia Fuentes, "HADES: An NFV solution for energy-efficient placement and resource allocation in heterogeneous infrastructures," Journal of Network and Computer Applications, vol. 221, 2024. DOI: https://doi.org/10.1016/j.jnca.2023.103764.
+- [2] Angel Cañete, Mercedes Amor, Lidia Fuentes, "Supporting IoT applications deployment on edge-based infrastructures using multi-layer feature models," Journal of Systems and Software, vol. 183, 2022. DOI: https://doi.org/10.1016/j.jss.2021.111086.
+- [3] A. Cañete, M. Amor, and L. Fuentes, "Energy-Efficient Deployment of IoT Applications in Edge-Based Infrastructures: A Software Product Line Approach," IEEE Internet of Things Journal, vol. 8, no. 22, pp. 16427-16439, Nov. 2021. DOI: 10.1109/JIOT.2020.3030197
