@@ -37,7 +37,5 @@ python main.py
 If you use iTAREA in your research, please consider citing the following papers:
 
 - Angel Cañete, Mercedes Amor, Lidia Fuentes, "HADES: An NFV solution for energy-efficient placement and resource allocation in heterogeneous infrastructures," Journal of Network and Computer Applications, vol. 221, 2024. DOI: https://doi.org/10.1016/j.jnca.2023.103764.
-
 - Angel Cañete, Mercedes Amor, Lidia Fuentes, "Supporting IoT applications deployment on edge-based infrastructures using multi-layer feature models," Journal of Systems and Software, vol. 183, 2022. DOI: https://doi.org/10.1016/j.jss.2021.111086.
-- 
 - A. Cañete, M. Amor, and L. Fuentes, "Energy-Efficient Deployment of IoT Applications in Edge-Based Infrastructures: A Software Product Line Approach," IEEE Internet of Things Journal, vol. 8, no. 22, pp. 16427-16439, Nov. 2021. DOI: 10.1109/JIOT.2020.3030197
