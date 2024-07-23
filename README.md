@@ -1,7 +1,7 @@
 # iTAREA: Task-to-Node Allocator for Edge Computing
 
 ## Overview
-iTAREA (Intelligent Task Allocation for Resource and Energy Awareness) is a Python-based tool designed to optimize the deployment of IoT applications in edge computing environments. It efficiently assigns tasks to nodes within heterogeneous infrastructures, ensuring optimal resource utilization and minimal energy consumption. iTAREA leverages a Mixed Integer Linear Programming (MILP) solver, Gurobi, to determine the best node for each task, specifying the required CPU, RAM, and disk resources to meet predefined Quality of Service (QoS) parameters.
+iTAREA (Intelligent Task Allocation for Resource and Energy Awareness) is a Python-based tool designed to optimize the deployment of IoT applications in edge computing environments. It efficiently assigns tasks to nodes within heterogeneous infrastructures, ensuring optimal resource utilization and minimal energy consumption. iTAREA leverages a Mixed Integer Linear Programming (MILP) solver, Gurobi, to determine the best node for each task, specifying the required CPU, RAM, and disk resources to meet predefined Quality of Service (QoS) parameters. It has been demonstrated that iTAREA can reduce energy consumption by more than 50% compared with default Kubernetes deployments [1].
 
 ## Key Features
 - **Energy Efficiency**: Minimizes the overall energy consumption of applications while maintaining performance.
@@ -12,7 +12,7 @@ iTAREA (Intelligent Task Allocation for Resource and Energy Awareness) is a Pyth
 
 ## Prerequisites
 - **Python 3.x**: Ensure Python is installed on your system.
-- **Gurobi Optimizer**: iTAREA uses Gurobi for solving the MILP problems. A valid Gurobi license is required.
+- **Gurobi Optimizer**: iTAREA uses Gurobi for solving MILP problems. A valid Gurobi license is required.
 
 ## Configuration
 
@@ -40,6 +40,11 @@ The following equation [1] describes the operation of the iTAREA module:
 
 ![image](https://github.com/user-attachments/assets/5c299078-c804-4ac0-8937-65a15e5d351e)
 
+## Performance 
+
+The execution time of the iTAREA module has been extensively evaluated in [1], concluding that a commercial desktop computer is sufficient to run our proposal and has been demonstrated to be fast enough to be applicable in real-world environments.
+
+![image](https://github.com/user-attachments/assets/2530b7d0-4925-4f36-9364-a8e38293475f)
 
 ## Citing iTAREA
 
