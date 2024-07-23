@@ -36,7 +36,7 @@ python main.py
 
 The following equation [1] describes the operation of the iTAREA module:
 
-![image](https://github.com/user-attachments/assets/5f7498c8-6ab6-4897-9e3b-5918d6c3a8ea)
+![image](https://github.com/user-attachments/assets/4751e0c6-f97a-4cd6-915a-4e3e7581a043)
 
 ![image](https://github.com/user-attachments/assets/5c299078-c804-4ac0-8937-65a15e5d351e)
 
